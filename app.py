@@ -161,4 +161,4 @@ def predict():
 
 if __name__ == "__main__":
     # Jalankan di 0.0.0.0 agar bisa diakses dari HP pada jaringan yang sama
-    app.run
+    
